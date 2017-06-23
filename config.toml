@@ -1,0 +1,14 @@
+siteTitle = "Blog by Kunal Shah"
+siteDescr = "Hi! I like to build beautiful web apps that do cool things."
+siteAuthor = "Kunal Shah"
+
+siteTelegramUrl = "#"
+siteTwitterUrl = "https://twitter.com/kunalsh22"
+siteGithubUrl = "https://github.com/kunalgorithm/"
+siteEmailUrl = "kshah239@gmail.com"
+siteRssUrl = "#"
+siteVkUrl = "#"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
