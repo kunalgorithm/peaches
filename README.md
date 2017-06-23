@@ -1,6 +1,10 @@
-# Lumen
+Created by Kunal Shah
+[Github](https://github.com/kunalgorithm/)
 
-[Gatsby](https://github.com/gatsbyjs/gatsby) starter for creating a blog.
+
+# Lumen
+Theme: [Lumen](https://github.com/alxshelepenok/gatsby-starter-lumen)
+Content Management System: [Gatsby](https://github.com/gatsbyjs/gatsby) starter for creating a blog.
 
 ## Features
 + Clean and extensible code.
@@ -23,7 +27,7 @@ Install this starter (assuming Gatsby is installed) by running from your CLI:
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2016-2017 Alexander Shelepenok
+Copyright (c) 2016-2017 Kunal Shah
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
