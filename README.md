@@ -6,7 +6,7 @@
 
 Built with [Gatsby](https://github.com/gatsbyjs/gatsby) and  [Lumen](https://github.com/alxshelepenok/gatsby-starter-lumen).
 
-![](https://github.com/kunalgorithm/peaches/static/images/screenshot.jpg)
+![](https://github.com/kunalgorithm/peaches/blob/master/static/images/screenshot.png?raw=true)
 
 ## License
 The MIT License (MIT)
